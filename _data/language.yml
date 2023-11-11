@@ -1,5 +1,5 @@
 # Tabs
-items_tab: 'Gegenst�nde'
+items_tab: 'Gegenstände'
 events_tab: 'Events'
 traits_tab: 'Eigenschaften'
 animals_tab: 'Tiere'
@@ -40,7 +40,7 @@ search_weapons: 'Suche nach Waffen...'
 
 # Metadata
 usage: 'Beispiel: %s'
-shortcut: 'Das ist die abgekürzte Form f�r %s'
+shortcut: 'Das ist die abgekürzte Form für %s'
 stats: 'Statistik'
 conflicts_with: 'Kollidiert mit'
 from: 'Von %s'
