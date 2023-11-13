@@ -4,7 +4,7 @@ events_tab: 'Events'
 traits_tab: 'Eigenschaften'
 animals_tab: 'Tiere'
 weapons_tab: 'Waffen'
-pawn_kinds_tab: 'Pawn Arten'
+pawn_kinds_tab: 'Kolonist Arten'
 
 # Table headers
 mod_name_header: Mod Name
@@ -25,7 +25,7 @@ no_commands: 'Das sind nicht die Kommandos nach denen du suchst.'
 
 # Redirect messages
 see_traits: 'Schaue auf die Preise im Abschnitt "Eigenschaften"'
-see_kinds: 'Schaue auf die Preise im Abschnitt "Pawn Arten"'
+see_kinds: 'Schaue auf die Preise im Abschnitt "Kolonist Arten"'
 see_items: 'Schaue auf die Preise im Abschnitt "Gegenstände"'
 
 # Search texts

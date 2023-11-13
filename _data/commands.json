@@ -4,8 +4,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Updates the current list of active viewers.",
-    "name": "Refresh viewers",
+    "description": "Aktualisiert die aktuelle Liste der Zuschauer.",
+    "name": "Zuschauer aktualisieren",
     "usage": "!refreshviewers",
     "userLevel": "Moderator",
     "shortcut": false
@@ -15,8 +15,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Awards all active viewers coins.",
-    "name": "Karma round",
+    "description": "Belohnt alle aktiven Zuschauer mit Münzen.",
+    "name": "Karma Runde",
     "usage": "!karmaround",
     "userLevel": "Moderator",
     "shortcut": false
@@ -26,8 +26,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives eveyrone coins.",
-    "name": "Give all coins",
+    "description": "Gibt allen Münzen.",
+    "name": "Allen Münzen geben",
     "usage": "!giveallcoins <coins>",
     "userLevel": "Moderator",
     "shortcut": false
@@ -37,8 +37,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer coins.",
-    "name": "Give coins",
+    "description": "Gibt dem Zuschauer Münzen.",
+    "name": "Gib Münzen",
     "usage": "!givecoins <viewer> <coins>",
     "userLevel": "Moderator",
     "shortcut": false
@@ -48,8 +48,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows the balance of a given user.",
-    "name": "Check user",
+    "description": "Zeigt den Kontostand eines bestimmten Benutzers.",
+    "name": "Überprüfe Benutzer",
     "usage": "!checkuser <viewer>",
     "userLevel": "Moderator",
     "shortcut": false
@@ -59,8 +59,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Sets the current karma for a given user.",
-    "name": "Set karma",
+    "description": "Setzt das aktuelle Karma für einen gegebenen Benutzer.",
+    "name": "Setze karma",
     "usage": "!setkarma <viewer> <karma>",
     "userLevel": "Moderator",
     "shortcut": false
@@ -70,8 +70,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Toggles coin generation.",
-    "name": "Toggle coins",
+    "description": "Schaltet die Münzauszahlung an die Zuschauer um.",
+    "name": "Münzen umschalten",
     "usage": "!togglecoins",
     "userLevel": "Moderator",
     "shortcut": false
@@ -82,8 +82,8 @@
       "mod": "Twitch Toolkit",
       "isBal": true
     },
-    "description": "Shows your current balance, karma, and optionally, the amount of coins earned per cycle.",
-    "name": "Check balance",
+    "description": "Zeigt dir deinen aktuellen Kontostand, sowie wieviel Karma du hast und optional, wie viele Münzen pro Zyklus du bekommst.",
+    "name": "Guthaben überprüfen",
     "usage": "!bal",
     "userLevel": "Anyone",
     "shortcut": false
@@ -94,7 +94,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Karma explanation",
+    "name": "Karma Erklärung",
     "usage": "!whatiskarma",
     "userLevel": "Anyone",
     "shortcut": false
@@ -105,7 +105,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Purchase list",
+    "name": "Einkaufsliste",
     "usage": "!purchaselist",
     "userLevel": "Anyone",
     "shortcut": false
@@ -116,7 +116,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Join queue",
+    "name": "Der Warteschlange beitreten",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false
@@ -127,7 +127,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Mod info",
+    "name": "Mod Informationen",
     "usage": "!modinfo",
     "userLevel": "Anyone",
     "shortcut": false
@@ -139,7 +139,7 @@
       "isBuy": true
     },
     "description": null,
-    "name": "Buy",
+    "name": "Kaufen",
     "usage": "!buy",
     "userLevel": "Anyone",
     "shortcut": false
@@ -149,8 +149,8 @@
       "isShortcut": true,
       "mod": "Twitch Toolkit"
     },
-    "description": "Lets you wager coins to level up a skill of your choosing.",
-    "name": "Level skill",
+    "description": "Lässt dich Münzen wetten um eine Fähigkeit deiner Wahl aufzuwerten.",
+    "name": "Fähigkeit aufwerten",
     "usage": "!levelskill <skill> <coins>",
     "userLevel": "Anyone",
     "shortcut": true
@@ -161,7 +161,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Mod settings",
+    "name": "Mod Einstellungen",
     "usage": "!modsettings",
     "userLevel": "Anyone",
     "shortcut": false
@@ -172,7 +172,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Instructions",
+    "name": "Anleitung",
     "usage": "!instructions",
     "userLevel": "Anyone",
     "shortcut": false
@@ -182,8 +182,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "All commands",
+    "description": "Listet alle Kommandos auf",
+    "name": "Alle Kommandos",
     "usage": "!allcommands",
     "userLevel": "Anyone",
     "shortcut": false
@@ -193,8 +193,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
+    "description": "Zeige die komplette Liste der installierten Mods an.",
+    "name": "Installierte Mods",
     "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false
@@ -205,7 +205,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Revive all",
+    "name": "Alle Wiederbeleben",
     "usage": "!reviveall",
     "userLevel": "Anyone",
     "shortcut": true
@@ -216,7 +216,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Revive me",
+    "name": "Mich Wiederbeleben",
     "usage": "!reviveme",
     "userLevel": "Anyone",
     "shortcut": true
@@ -227,7 +227,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Heal me",
+    "name": "Heile mich",
     "usage": "!healme",
     "userLevel": "Anyone",
     "shortcut": true
@@ -238,7 +238,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Healall",
+    "name": "Heile Alle",
     "usage": "!healall",
     "userLevel": "Anyone",
     "shortcut": true
@@ -248,7 +248,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
+    "description": "Würfelt deine Leidenschaft. Wenn ein Fähigkeit angegeben wird, wird dir eine kleine 'minor' Leidenschaft gewährleistet.",
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
     "userLevel": "Anyone",
@@ -259,8 +259,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Purchases the part specified and queues it for surgery on your pawn.",
-    "name": "Surgery",
+    "description": "Kauft das angegebene Teil und stellt es in die Warteschlange für die Operationen.",
+    "name": "Operation",
     "usage": "!surgery <item> <quantity/bodypart>",
     "userLevel": "Anyone",
     "shortcut": true
@@ -270,8 +270,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Add trait",
+    "description": "Fügt deinem Kolonisten eine Eigenschaft hinzu.",
+    "name": "Eigenschaft hinzufügen",
     "usage": "!trait",
     "userLevel": "Anyone",
     "shortcut": true
@@ -282,7 +282,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Remove trait",
+    "name": "Eigenschaft entfernen",
     "usage": "!removetrait",
     "userLevel": "Anyone",
     "shortcut": true
@@ -293,7 +293,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Revive any pawn",
+    "name": "Belebe irgendeinen Kolinisten wieder",
     "usage": "!reviveanypawn",
     "userLevel": "Anyone",
     "shortcut": true
@@ -304,7 +304,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Heal any pawn",
+    "name": "Heilt irgendeinen Kolonisten",
     "usage": "!healanypawn",
     "userLevel": "Anyone",
     "shortcut": true
@@ -314,8 +314,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Replaces a trait with a different trait.",
-    "name": "Replace trait",
+    "description": "Ersetze eine Eigenschaft mit einer anderen.",
+    "name": "Eigenschaft ersetzen",
     "usage": "!replacetrait <old> <new>",
     "userLevel": "Anyone",
     "shortcut": true
@@ -325,8 +325,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "It's like buy item, but it gets added to your inventory if possible.",
-    "name": "Backpack",
+    "description": "Ist das Selbe wie !buy <item>, aber falls möglich wird es direkt deinem Inventar hinzugefügt.",
+    "name": "Rucksack",
     "usage": "!backpack <item> [quantity]",
     "userLevel": "Anyone",
     "shortcut": true
@@ -336,8 +336,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Downgrades a skill's passion... sometimes.",
-    "name": "Remove passion",
+    "description": "Verschlechtert eine Leidenschaft... manchmal.",
+    "name": "Verschlechtere Leidenschaft",
     "usage": "!removepassion <skill>",
     "userLevel": "Anyone",
     "shortcut": true
@@ -347,8 +347,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Upgrades a skill's passion... sometimes.",
-    "name": "Add passion",
+    "description": "Verbessert eine Leidenschaft... manchmal.",
+    "name": "Verbessere Leidenschaft",
     "usage": "!passion <skill>",
     "userLevel": "Anyone",
     "shortcut": true
@@ -359,7 +359,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Full heal",
+    "name": "Vollständige Heilung",
     "usage": "!fullheal",
     "userLevel": "Anyone",
     "shortcut": true
@@ -370,7 +370,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Rescue me",
+    "name": "Rette mich",
     "usage": "!rescueme",
     "userLevel": "Anyone",
     "shortcut": true
@@ -381,7 +381,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Viewer kill count",
+    "name": "Anzahl der kills eines Zuschauers",
     "usage": "!mypawnkills",
     "userLevel": "Anyone",
     "shortcut": false
@@ -391,8 +391,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your current stats within a given category.",
-    "name": "Viewer stats",
+    "description": "Zeigt eure aktuellen Werte innerhalb einer Kategorie.",
+    "name": "Zuschauer Werte",
     "usage": "!mypawnstats [stat1] [stat2]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -402,8 +402,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
-    "name": "Viewer health",
+    "description": "Zeigt einen Überblick über den Gesundheitszustand deines Kolonisten. Wenn eine Kapazität angegeben ist, wird angezeigt, wie sie sich auswirkt.",
+    "name": "Zuschauer Gesundheit",
     "usage": "!mypawnhealth [capacity]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -414,7 +414,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Viewer needs",
+    "name": "Zuschauer Bedürfnisse",
     "usage": "!mypawnneeds",
     "userLevel": "Anyone",
     "shortcut": false
@@ -424,8 +424,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's gear.",
-    "name": "Viewer gear",
+    "description": "Zeigt eine Übersichte über die Ausrüstung des Zuschauers.",
+    "name": "Zuschauer Ausrüstung",
     "usage": "!mypawngear",
     "userLevel": "Anyone",
     "shortcut": false
@@ -436,7 +436,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Viewer body",
+    "name": "Zuschauer Körper",
     "usage": "!mypawnbody",
     "userLevel": "Anyone",
     "shortcut": false
@@ -446,8 +446,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's work priorities.",
-    "name": "Viewer work",
+    "description": "Zeigt die Arbeitsprioritäten deines Kolinisten.",
+    "name": "Zuschauer Prioritäten",
     "usage": "!mypawnwork [worktype=priority] [...]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -458,7 +458,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Viewer story",
+    "name": "Zuschauer Geschichte",
     "usage": "!mypawnstory",
     "userLevel": "Anyone",
     "shortcut": false
@@ -469,7 +469,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Viewer skills",
+    "name": "Zuschauer Fähigkeiten",
     "usage": "!mypawnskills",
     "userLevel": "Anyone",
     "shortcut": false
@@ -480,7 +480,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Fix viewer pawn",
+    "name": "Repariert den Kolonisten des Zuschauers",
     "usage": "!fixmypawn",
     "userLevel": "Anyone",
     "shortcut": false
@@ -491,7 +491,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Fix all pawns",
+    "name": "Repariere alle Kolonisten",
     "usage": "!fixallpawns",
     "userLevel": "Moderator",
     "shortcut": false
@@ -501,8 +501,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn leave the colony.",
-    "name": "Abandon pawn",
+    "description": "Verbanne deinen Kolonisten aus der Kolonie.",
+    "name": "Banne Kolonisten",
     "usage": "!leave",
     "userLevel": "Anyone",
     "shortcut": false
@@ -512,8 +512,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's relationships to other viewers.",
-    "name": "Viewer relations",
+    "description": "Zeigt die Beziehung deines Kolonisten zu anderen Zuschauern.",
+    "name": "Zuschauer Beziehungen",
     "usage": "!mypawnrelations [viewer]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -524,7 +524,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Factions",
+    "name": "Fraktionen",
     "usage": "!factions",
     "userLevel": "Anyone",
     "shortcut": false
@@ -534,8 +534,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
-    "name": "Research",
+    "description": "Zeigt den aktuellen Forschungsfortschritt an. Wenn ein Projekt angegeben ist, wird stattdessen der Fortschritt dieses Projekts angezeigt.",
+    "name": "Forschung",
     "usage": "!research [project/item]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -545,8 +545,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
-    "name": "Lookup",
+    "description": "Zeigt die ersten Ergebnisse für die Abfrage in der angegebenen Kategorie an. Gültige Kategorien sind: 'Kolonisten', 'Eigenschaften', 'Gegenstände', 'Ereignisse', 'Krankheiten', 'Tiere' und 'Fähigkeiten'. ('pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills')",
+    "name": "Nachschlagen",
     "usage": "!lookup <item/category> [query]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -556,8 +556,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
-    "name": "Price check",
+    "description": "Ähnlich wie das 'Nachschlagen' Kommand, außer das der Preis für den ersten gefundenen Gegenstand.",
+    "name": "Preis überprüfen",
     "usage": "!price <item/category> [query]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -568,7 +568,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Unstick",
+    "name": "Lösen",
     "usage": "!unstick",
     "userLevel": "Moderator",
     "shortcut": false
@@ -579,7 +579,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Toggle store",
+    "name": "Geschäft ein/ausschalten",
     "usage": "!togglestore",
     "userLevel": "Moderator",
     "shortcut": false
@@ -589,7 +589,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
+    "description": "Lässt deinen Kolonisten einen zufälligen Zuschauer beleidigen. Wenn ein Zuschauer angegeben ist, wird stattdessen dieser beleidigt.",
     "name": "Insult",
     "usage": "!insult [target]",
     "userLevel": "Anyone",
@@ -601,7 +601,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Colony wealth",
+    "name": "Koloniewert",
     "usage": "!wealth",
     "userLevel": "Anyone",
     "shortcut": false
@@ -612,7 +612,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Colonist count",
+    "name": "Anzahl der Koloniste",
     "usage": "!colonists",
     "userLevel": "Anyone",
     "shortcut": false
@@ -622,8 +622,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Provides some information about supported things. Supported categories are: 'weapons'",
-    "name": "Database",
+    "description": "Liefert Informationen über unterstützte Dinge. Unterstützte Kategorien sind: 'Waffen'",
+    "name": "Datenbank",
     "usage": "!rwdata <category/weaponname> [weaponname]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -634,7 +634,7 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Unstick me",
+    "name": "Freisetzen des Kolonisten (unstuck)",
     "usage": "!imstuck",
     "userLevel": "Anyone",
     "shortcut": false
